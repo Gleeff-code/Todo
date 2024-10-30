@@ -5,8 +5,9 @@
 Install Todo with npm
 
 ```bash
-  npm install Todo
+  gh repo clone Gleeff-code/Todo
   cd Todo
+  npm i
   npm run dev
 ```
 ## Demo
